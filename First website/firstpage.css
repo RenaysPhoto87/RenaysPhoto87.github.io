@@ -1,0 +1,11 @@
+h1{
+	color: #9900cc;
+}
+/*always use period when referring to a class*/
+.mainheadline {
+	color:#cc99ff;
+}
+
+.image{
+	width:500px;
+}

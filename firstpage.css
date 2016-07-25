@@ -21,6 +21,7 @@ h1{
 
 .pictures {
 	border: 2px solid black;
+	position:relative;
 	width: 200px;
 	margin: 0 10px;
 }

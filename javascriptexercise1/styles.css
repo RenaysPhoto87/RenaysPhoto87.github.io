@@ -83,4 +83,8 @@ this css when the link is moused over*/
 	clear: both;
 }
 
+.borderbutton{
+border: 2px solid red;
+}
+
 

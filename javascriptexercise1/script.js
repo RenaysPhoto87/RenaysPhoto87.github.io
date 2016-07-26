@@ -10,4 +10,8 @@ console.log(myButtons);
 myButtons[0].addEventListener("click",function () {
 	
 	sandwichImageElems[0].src= "https://wswdelivery.com/wp-content/uploads/2015/05/gatorade-variety-550x515.jpg";
+    
+
 });
+
+document.getElementById("borderbutton").className = "button";
